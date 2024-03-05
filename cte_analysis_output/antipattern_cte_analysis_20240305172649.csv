@@ -1,0 +1,13 @@
+Message,File Name,Developer Name,Start Time,End Time,Antipattern Type
+"No of CTEs = 3 (All CTEs are optimized, no modification needed)",AI_DUMP_VS_MMS_MASTER_TOPICTAGGING_INTEGRATION_DEBYAN.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074489,CTE Analysis
+"No of CTEs = 5 (All CTEs are optimized, no modification needed)",TEST_SQL1.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+"No of CTEs = 3 (All CTEs are optimized, no modification needed)",TEST_SQL2.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+"No of CTEs = 5 (All CTEs are optimized, no modification needed)",TEST_SQL3.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+Warning 1: CTE 'cte4' is being used twice or more than twice in FROM or JOIN conditions. Consider creating a temp table instead of CTE for better performance.,TEST_SQL4.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+Warning 1: CTE 'all_time_monthly_time_periods' is being used twice or more than twice in FROM or JOIN conditions. Consider creating a temp table instead of CTE for better performance.,TEST_SQL5_NLSN.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+Warning 2: CTE 'fiscal_flags' is being used twice or more than twice in FROM or JOIN conditions. Consider creating a temp table instead of CTE for better performance.,TEST_SQL5_NLSN.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+Warning 3: CTE 'fiscal_flags_with_formatting' is being used twice or more than twice in FROM or JOIN conditions. Consider creating a temp table instead of CTE for better performance.,TEST_SQL5_NLSN.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+"No of CTEs = 1 (All CTEs are optimized, no modification needed)",TEST_SQL6.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+"No of CTEs = 2 (All CTEs are optimized, no modification needed)",TEST_SQL7.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+Warning 1: CTE 'Dedup' is being used twice or more than twice in FROM or JOIN conditions. Consider creating a temp table instead of CTE for better performance.,To Check Duplicates in Kafka topic.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
+Warning 2: CTE 'CombinedData' is being used twice or more than twice in FROM or JOIN conditions. Consider creating a temp table instead of CTE for better performance.,To Check Duplicates in Kafka topic.sql,dhiraj.upadhyay,2024-03-05 17:26:49.072254,2024-03-05 17:26:49.074990,CTE Analysis
